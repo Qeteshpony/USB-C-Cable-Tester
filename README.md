@@ -20,6 +20,6 @@ The tester can of course not check for any active circuitry in the cable and mig
 | USB 2.0   | Lights up when the USB2 differential pair is connected |
 | USB 3.x   | One LED for each set of TX/RX pairs in the cable. If only one is lit, USB3.2 will not work |
 | CC        | One of these must be connected, the other should not be. A dim LED *can* be a hint for an active cable |
-| SBU       | SideBand Usage - Used for alternative functions like audio and video connections |
+| SBU       | SideBand Use (See [USB Type-C Spec R2.0, chapter 4.3](https://www.usb.org/sites/default/files/USB%20Type-C%20Spec%20R2.0%20-%20August%202019.pdf)) - Used for alternate modes like audio and video connections |
 
 The PCB is designed with production by JLCPCB in mind and all parts but the USB-Connectors are from their basic parts library. I strongly suggest getting these assembled since soldering the USB connectors by hand is not easy. 
