@@ -1,10 +1,10 @@
-# Qeteshs USB-C Cable Tester
+# USB-C Cable Tester
 
-[![CI](https://github.com/Qeteshpony/USB-Cable-Tester/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Qeteshpony/USB-Cable-Tester/actions/workflows/ci.yml)
+[![CI](https://github.com/Qeteshpony/USB-C-Cable-Tester/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Qeteshpony/USB-C-Cable-Tester/actions/workflows/ci.yml)
 
-![3D Render](https://qeteshpony.github.io/USB-Cable-Tester/3D/USB-Cable-Tester-3D_top.png)
+![3D Render](https://qeteshpony.github.io/USB-C-Cable-Tester/3D/USB-Cable-Tester-3D_top.png)
 
-[Hardware Documentation](https://qeteshpony.github.io/USB-Cable-Tester)
+[Hardware Documentation](https://qeteshpony.github.io/USB-C-Cable-Tester)
 
 Small passive device for determining the capabilities of a USB-C Cable
 
